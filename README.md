@@ -14,7 +14,7 @@ woo read me
    <br>
    <b> PROJECTS </b>
     <br> 
-   Here are my games that I created using Unity: <a href="https://melysvilee.itch.io/wingedcorpse"> My Solo Project: Winged Corpse.</a> Follow Quinn's Journey as she goes about her day as a protector of heaven! Meet other angels, friends and fight! <a href="https://melysvilee.itch.io/mind-veil">  Group Project: Mind Veil. </a> Attempt to discover how differently worlds can affect your learning on life. (STILL WIP)
+   Here are my games that I created using Unity: <a href="https://melysvilee.itch.io/wingedcorpse"> My Solo Project: Winged Corpse.</a> Follow Quinn's Journey as she goes about her day as a protector of heaven! Meet other angels, friends and fight!  <br> <a href="https://melysvilee.itch.io/mind-veil">  Group Project: Mind Veil. </a> Attempt to discover how differently worlds can affect your learning on life. (STILL WIP)
    <br>
    <br>
    <b> CONTACT </b>
